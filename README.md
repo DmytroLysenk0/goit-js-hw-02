@@ -1,2 +1,2 @@
-# goit-js-hw-02
-рядки, цикли, if, else...if
+# goit-js-hw-01 
+переше ДЗ JavaScript
