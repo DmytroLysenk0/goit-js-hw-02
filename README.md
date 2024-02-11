@@ -1,2 +1,2 @@
-# goit-js-hw-01 
-переше ДЗ JavaScript
+# goit-js-hw-02
+друге ДЗ JavaScript
